@@ -1,6 +1,5 @@
-<img src="mygif.gif"> 
-
 # Shopping-Card
+<img src="mygif.gif"> 
 
 lounges:
 Jscript
