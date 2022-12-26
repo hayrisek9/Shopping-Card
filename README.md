@@ -1,4 +1,4 @@
-<img src="my.gif">
+![](my.gif)
 
 # Shopping-Card
 
